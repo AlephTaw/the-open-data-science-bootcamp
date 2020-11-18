@@ -126,6 +126,11 @@ This work is an outgrowth of an intensive self-study program in data science and
     - Deep Learning
     
 ## Illustrative Projects:
+  * Production Demo Pipelines: Scikit-Learn, Keras, Pytorch
+  * Twitter Sentiment
+  * Wiki
+  * Atari Deep Reinforcement Learning
+  * Business Case Study
 
 ## Else - Data Science in Practice ...
   * Case Studies
