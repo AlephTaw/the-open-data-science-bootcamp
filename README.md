@@ -4,7 +4,7 @@
 
 This work is an outgrowth of an intensive self-study program in data science and machine learning. The goal is to maintain a collection of tools, illustrative coding samples, and learning resources to augment a formal or self-directed data science 'bootcamp experience.' Enjoy!
 
-** Note: Efforts have been made to include as much opensource content as possible. Feel free to suggest alternatives to paid content, where comparable alternatives exist.
+** Note: Efforts have been made to include as much open source content as possible. Feel free to suggest alternatives to paid content, where comparable alternatives exist.
 
 ## Sample Schedule:
 
