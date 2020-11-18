@@ -16,6 +16,7 @@ This work is an outgrowth of an intensive self-study program in data science and
     - Object Oriented Design Principles
     - Software Engineering Design Patterns
     - Exception Handling
+    - Regular Expressions
     - Else
     
   - Language (Python)
@@ -26,7 +27,9 @@ This work is an outgrowth of an intensive self-study program in data science and
     - Documenting Projects
     - Testing
     - Language Deep Dive (Idioms, and more)
+    - Data Science Specific
     - Else
+      - Packaging Projects
 
   - Language (JavaScript)
     - Style Guide
@@ -37,6 +40,22 @@ This work is an outgrowth of an intensive self-study program in data science and
     - Testing
     - Language Deep Dive (Idioms, and more)
     - Else
+
+* Web (*Data Science 'Core Web Topics.' Other topics included as boilerplate fullstack content.)
+  - Tools
+    - Server-Side Tools/Tech
+      - Flask*
+      - NodeJS, Express, Mongoose
+    - Client-Side Tools/Tech
+      - HTML*, CSS*, Sass, JSS
+      - ReactJS
+      - Bootstrap, Material Design
+    - UI/UX
+      - Figma
+  - In Practice
+    - Scraping
+      - Beautiful Soup
+    - Apis
 
 * Algorithms
   - Data Structures
@@ -51,9 +70,10 @@ This work is an outgrowth of an intensive self-study program in data science and
     - ORMs
       - sqlalchemy
       - flask-sqlalchemy
-      
   - Data Analysis
     - pandas
+  - Data Mining
+    - Scraping
   - Data Visualization
     - matplotlib
     - bokeh
@@ -65,6 +85,7 @@ This work is an outgrowth of an intensive self-study program in data science and
   - Scientific Computing
     - numpy
     - sciPy
+
 * Machine Learning
   - General:
     - scikit-learn
@@ -76,13 +97,25 @@ This work is an outgrowth of an intensive self-study program in data science and
 * Statistics
 * DevOps
   - CI/CD
+    - Circle CI
+    - Jenkins
   - Containers
+    - Docker
   - Container Orchestration
-  - Cloud Services and Service Providers
+    - Docker Swarm
+    - Kubernetes
+  - Service Providers and Cloud Services
+    - AWS
+    - Google Cloud
   - Else
-
-* Courses, Lectures and Live Content
-  - 
+* Data and Computing at Scale:
+  - Spark / PySpark
+  - Kafka
+  - Apache Storm
+  - MapReduce
+  - Else
+    - hdf5, ...
+## Subject Courses, Lectures and Live Content:
   - Statistics
   - Machine Learning
     - ML Infrastructure
@@ -92,9 +125,16 @@ This work is an outgrowth of an intensive self-study program in data science and
     - Probabalistic Graphical Models
     - Deep Learning
     
-* Illustrative Projects
+## Illustrative Projects:
 
-* Resource Types (Key):
+## Else - Data Science in Practice ...
+  * Case Studies
+  * Interviews
+  * Business Analytics:
+    - Metrics
+    - A/B Testing
+
+## Resource Type Key:
     * Cheatsheets:
     * Documentation:
     * Live Content (forumns, blogs, news, etc.)
