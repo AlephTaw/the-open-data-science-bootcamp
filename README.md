@@ -131,6 +131,8 @@ This work is an outgrowth of an intensive self-study program in data science and
   * Wiki
   * Atari Deep Reinforcement Learning
   * Business Case Study
+  * Papers to Code
+  * Reference Applications and Implementations
 
 ## Else - Data Science in Practice ...
   * Case Studies
