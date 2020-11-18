@@ -94,16 +94,16 @@ This work is an outgrowth of an intensive self-study program in data science and
     
 * Illustrative Projects
 
-Resource Types (Key):
-  * Cheatsheets:
-  * Documentation:
-  * Live Content (forumns, blogs, news, etc.)
-  * Video Tutorials:
-  * Written Tutorials:
-  * Video Lectures:
-  * Notebooks:
-  * Code Examples:
-  * Illustrative Projects:
+* Resource Types (Key):
+    * Cheatsheets:
+    * Documentation:
+    * Live Content (forumns, blogs, news, etc.)
+    * Video Tutorials:
+    * Written Tutorials:
+    * Video Lectures:
+    * Notebooks:
+    * Code Examples:
+    * Illustrative Projects:
 
 
 
