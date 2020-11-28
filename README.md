@@ -108,6 +108,10 @@ This work is an outgrowth of an intensive self-study program in data science and
     - AWS
     - Google Cloud
   - Else
+   - More Resources:
+    - Docker Mastery: https://www.udemy.com/course/docker-mastery/
+    - Devops: https://www.udemy.com/course/devops-training/
+
 * Data and Computing at Scale:
   - Spark / PySpark
   - Kafka
@@ -117,14 +121,73 @@ This work is an outgrowth of an intensive self-study program in data science and
     - hdf5, ...
 ## Subject Courses, Lectures and Live Content:
   - Statistics
+    - Courses
+      - Coming soon!
+    - Texts:
+      - All of Statistics - Larry Wasserman
+        - https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225
   - Machine Learning
-    - ML Infrastructure
-    - ML Fundamentals
-      - Basic
-      - Advanced
-    - Probabalistic Graphical Models
-    - Deep Learning
-    
+    - ML Infrastructure and Pragmatics
+            - Fast.ai (A popular high level api for PyTorch (will we see it in Swift?), with top-notch pragmatic courses in deep learning).
+          - https://www.fast.ai/
+        - Udemy:
+          - Feature Selection:
+            - https://www.udemy.com/course/feature-selection-for-machine-learning/
+          - Feature Engineering:
+            - https://www.udemy.com/course/feature-engineering-for-machine-learning/
+          - Imbalanced Data:
+            - https://www.udemy.com/course/machine-learning-with-imbalanced-data/
+          - Deployment of Machine Learning Models (ml-infra):
+            - https://www.udemy.com/course/deployment-of-machine-learning-models/
+          - Testing and Monitoring Machine Learning Model Deployments (ml-infra):
+            - https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/
+        - Books:
+          - Building Machine Learning Powered Applications: Going from Idea to Product - Emmanuel Ameisen (Head of AI at Insight Data Science)
+          - https://www.amazon.com/gp/product/149204511X/ref=ox_sc_act_title_1?smid=A2CI8D50F555BA&psc=1
+          - Machine Learning Yearning (ML Pragmatics with Andrew Ng): 
+            - https://www.deeplearning.ai/machine-learning-yearning/
+    - ML Coursework
+        - Fundamentals
+          - CS229 (Andrew Ng): Similar content to the Coursera Machine Learning with Andrew Ng
+            - Course Website: http://cs229.stanford.edu/
+            - Video Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+          - CS230 (Andrew Ng): Similar content to the Coursera deeplearning.ai specialization with Andrew Ng
+            - Course Website: https://cs230.stanford.edu/
+            - Video Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+        - Deeplearning
+          - Machine Learning with Andrew Ng (The course that 'started a MOOC revolution'):
+            - https://www.coursera.org/learn/machine-learning
+          - DeepLearning.ai Specialization with Andrew Ng:
+            - https://www.coursera.org/specializations/deep-learning
+          - CS231n: Deep Learning for Computer Vision
+            - Course Website: http://cs231n.stanford.edu/
+            - Video Lectures: https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+          - CS224n: Natural Language Processing with Deep Learning
+            - Course Website: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/
+            - Video Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+        - Probabalistic Graphical Models
+          - Coming soon!
+    - Texts
+      - The Deep Learning Textbook (Ian Goodfellow, Yoshua Bengio, and Aaron Courville):
+        - https://www.deeplearningbook.org/
+    - A Selection of Useful Blogs
+    - A (Not so Principled Selection of) Noteworthy ML Researchers:
+    - Conferences (There are many);
+      -
+    - A (non-principled) Selection of Significant Papers:
+      - LeNet
+      - AlexNet
+      - Attention is all you need
+      - 
+      - 
+      
+    - Model Implementations
+      - Model Zoo
+    - Data Sources
+      - Computer Vision
+      - Natural Language Processing
+      - Reinforcement Learning
+
 ## Illustrative Projects:
   * Production Demo Pipelines: Scikit-Learn, Keras, Pytorch
   * Twitter Sentiment
