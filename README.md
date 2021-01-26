@@ -220,6 +220,7 @@ This work is an outgrowth of an intensive self-study program in data science and
 ## Footer:
 
 ### Dependencies:
-    * The wiki and supporting markdown documents require MathJax to display mathematical content appropriately. You can add the extension for Google Chrome [here](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod/related?hl=en) 
+    * The wiki and supporting markdown documents require MathJax to display mathematical content appropriately. You can add the extension for Google Chrome 
+    here: https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod/related?hl=en
 
 
